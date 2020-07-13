@@ -24,7 +24,6 @@ class _HomeScreenState extends State<HomeScreen> {
           'Chats',
           style: TextStyle(
               fontSize: 28, fontWeight: FontWeight.bold, color: Colors.white),
-          textAlign: TextAlign.center,
         ),
         elevation: 0.0,
         actions: <Widget>[
